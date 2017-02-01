@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Lynn Location",
+    "street_address":"ahbas das dasd kdas dgash dasd asdausdbasdb asd da dsa bdksab ",
+    "city":"",
+    "state":"",
+    "zip":"",
+    "phone":""
+  },
+  {
+    "id": 2,
+    "name": "AMAMM Location",
+    "street_address":"ahbas das dasd kdas dgash dasd asdausdbasdb asd da dsa bdksab ",
+    "city":"",
+    "state":"",
+    "zip":"",
+    "phone":""
+  },
+  {
+    "id": 3,
+    "name": "System Location",
+    "street_address":"ahbas das dasd kdas dgash dasd asdausdbasdb asd da dsa bdksab ",
+    "city":"",
+    "state":"",
+    "zip":"",
+    "phone":""
+  }
+]
